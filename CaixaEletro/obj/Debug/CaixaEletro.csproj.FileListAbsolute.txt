@@ -1,0 +1,22 @@
+C:\Users\arthu\source\repos\CaixaEletro\bin\Debug\CaixaEletro.exe.config
+C:\Users\arthu\source\repos\CaixaEletro\bin\Debug\CaixaEletro.exe
+C:\Users\arthu\source\repos\CaixaEletro\bin\Debug\CaixaEletro.pdb
+C:\Users\arthu\source\repos\CaixaEletro\obj\Debug\CaixaEletro.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\CaixaEletro\obj\Debug\CaixaEletro.Form1.resources
+C:\Users\arthu\source\repos\CaixaEletro\obj\Debug\CaixaEletro.Form2.resources
+C:\Users\arthu\source\repos\CaixaEletro\obj\Debug\CaixaEletro.Properties.Resources.resources
+C:\Users\arthu\source\repos\CaixaEletro\obj\Debug\CaixaEletro.csproj.GenerateResource.cache
+C:\Users\arthu\source\repos\CaixaEletro\obj\Debug\CaixaEletro.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\CaixaEletro\obj\Debug\CaixaEletro.exe
+C:\Users\arthu\source\repos\CaixaEletro\obj\Debug\CaixaEletro.pdb
+D:\FATEC\Algoritmo\Aula 5\CaixaEletro\bin\Debug\CaixaEletro.exe.config
+D:\FATEC\Algoritmo\Aula 5\CaixaEletro\bin\Debug\CaixaEletro.exe
+D:\FATEC\Algoritmo\Aula 5\CaixaEletro\bin\Debug\CaixaEletro.pdb
+D:\FATEC\Algoritmo\Aula 5\CaixaEletro\obj\Debug\CaixaEletro.csproj.AssemblyReference.cache
+D:\FATEC\Algoritmo\Aula 5\CaixaEletro\obj\Debug\CaixaEletro.Form1.resources
+D:\FATEC\Algoritmo\Aula 5\CaixaEletro\obj\Debug\CaixaEletro.Form2.resources
+D:\FATEC\Algoritmo\Aula 5\CaixaEletro\obj\Debug\CaixaEletro.Properties.Resources.resources
+D:\FATEC\Algoritmo\Aula 5\CaixaEletro\obj\Debug\CaixaEletro.csproj.GenerateResource.cache
+D:\FATEC\Algoritmo\Aula 5\CaixaEletro\obj\Debug\CaixaEletro.csproj.CoreCompileInputs.cache
+D:\FATEC\Algoritmo\Aula 5\CaixaEletro\obj\Debug\CaixaEletro.exe
+D:\FATEC\Algoritmo\Aula 5\CaixaEletro\obj\Debug\CaixaEletro.pdb
